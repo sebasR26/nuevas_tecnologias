@@ -1,1 +1,2 @@
-trabajando con ramas 
+trabajando con ramas
+creando la nueva rama en el repositorio 
