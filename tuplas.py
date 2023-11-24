@@ -73,4 +73,7 @@ conca = list(pares + impares)
 conca.sort()
 tuplaO=tuple(conca)
 print(tuplaO)
-    
+
+n = range(8,16,2)
+for nu in n:
+    print(n)
